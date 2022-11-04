@@ -1,0 +1,1 @@
+# Predicting-turbine-energy-yield-and-BURNED-AREA-OF-FOREST-FIRES-by-NEURAL-NETWORKS
